@@ -1,6 +1,7 @@
 # 20160517-0743DocTest
 Tutorial
 20160517@0827 rbw: Test branch edit
-Another test
+
+Deleted Line above
 And another
- 
+20160517@0906
